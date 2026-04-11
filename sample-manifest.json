@@ -1,0 +1,12 @@
+{
+  "export_job_id": "b2907c47-2752-431b-b2fd-131000de0b5f",
+  "id_short": 347183,
+  "published_at": "2026-04-11T07:33:18Z",
+  "repo_name": "top-30-active-restaurant-whales-in-oakland-us-sample-347183",
+  "sample_asset_name": "beamstation_347183_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/347183/beamstation_347183_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 20,
+  "sample_sha256": "c182d830feca4b53710a9e3d0b4b8ae74d2373534725ea1661cb553b03af0c27",
+  "sample_size_bytes": 94712,
+  "total_records": 266
+}
